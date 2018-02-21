@@ -1,5 +1,7 @@
 # reddit
 
+[![Join the chat at https://gitter.im/Reddit-Test/Lobby](https://badges.gitter.im/Reddit-Test/Lobby.svg)](https://gitter.im/Reddit-Test/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img src="https://secure.gravatar.com/avatar/c638493729c2f009988c9e5bd9b5e116?s=200" align="right">
 
 Greetings!
